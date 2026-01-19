@@ -1,0 +1,8 @@
+{
+  "name": "Vibe Coding - Project Rebirth",
+  "description": "An ultra-premium, Cyber-Noir 3D portfolio for Project Rebirth, featuring Iron Man-style UI, AI integration, and immersive animations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
